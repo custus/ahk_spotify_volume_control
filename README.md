@@ -1,1 +1,7 @@
 # ahk_spotify_volume_control
+
+A script for https://autohotkey.com/
+
+Just install aAHK und run the script. You need to compile it and run it as administrator to make it work correctly.
+
+Small Bug it wont work correctly when Spotify is the focused window.
